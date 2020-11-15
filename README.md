@@ -9,6 +9,6 @@ cd "directory"
 ---------------------
 ./trionic_converter_biohazard86
 ---------------------
-FINISH
+
 
 Never use the same name for the input and output files!!!
