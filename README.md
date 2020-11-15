@@ -5,8 +5,9 @@ You can also convert your binary back to a 5.2 file to open it with T5Suite and 
 
 EXECUTE IN LINUX:
 ---------------------
-cd "path" 
-./trionic_converter_biohazard_86
+cd "directory" 
+---------------------
+./trionic_converter_biohazard86
 ---------------------
 FINISH
 
